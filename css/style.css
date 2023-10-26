@@ -1,0 +1,63 @@
+body{
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.container{
+    width: 40%;
+    height: 60vh;
+    margin: 30px auto;
+}
+.image{
+    height: 90%;
+}
+.img-style{
+    background-color: #84ffa1;
+    width: 25%;
+}
+.text{
+    float: right;
+}
+.text-style{
+    background-color: #9ad9ff;
+    width: 75%;
+    height: 10%;
+}
+.text1{
+    float: right;
+}
+.text1-style{
+    background-color: #faf6a8;
+    width: 75%;
+    height: 80%;
+}
+.text2{
+    float: left;
+}
+.text2-style{
+    background-color: #ffc799;
+    width: 65%;
+    height: 10%;
+}
+.image1{
+    float: right;
+}
+.img1-style{
+    background-color: #e784e7;
+    width: 35%;
+    height: 10%;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.img-1{
+    height: 10%;
+}
+.img{
+    height: 80%;
+}
